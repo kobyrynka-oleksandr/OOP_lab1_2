@@ -16,6 +16,9 @@
             Console.WriteLine("Area: " + circle2.GetArea);
             Console.WriteLine("Circuit: " + circle2.GetCircuit);
 
+            Console.WriteLine("Compare circles: ");
+            Console.WriteLine(circle1.Compare(circle2));
+
             TCircle sumOfCircle = circle1 + circle2;
             Console.WriteLine("Sum of circle: ");
             sumOfCircle.Output();
