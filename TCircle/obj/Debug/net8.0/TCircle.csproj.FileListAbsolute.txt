@@ -1,0 +1,4 @@
+C:\C# Projects\OOP_lab1_2\TCircle\obj\Debug\net8.0\TCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\OOP_lab1_2\TCircle\obj\Debug\net8.0\TCircle.AssemblyInfoInputs.cache
+C:\C# Projects\OOP_lab1_2\TCircle\obj\Debug\net8.0\TCircle.AssemblyInfo.cs
+C:\C# Projects\OOP_lab1_2\TCircle\obj\Debug\net8.0\TCircle.csproj.CoreCompileInputs.cache
