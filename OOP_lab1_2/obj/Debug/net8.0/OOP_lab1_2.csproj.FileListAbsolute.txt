@@ -12,3 +12,4 @@ C:\C# Projects\OOP_lab1_2\OOP_lab1_2\obj\Debug\net8.0\refint\OOP_lab1_2.dll
 C:\C# Projects\OOP_lab1_2\OOP_lab1_2\obj\Debug\net8.0\OOP_lab1_2.pdb
 C:\C# Projects\OOP_lab1_2\OOP_lab1_2\obj\Debug\net8.0\OOP_lab1_2.genruntimeconfig.cache
 C:\C# Projects\OOP_lab1_2\OOP_lab1_2\obj\Debug\net8.0\ref\OOP_lab1_2.dll
+C:\C# Projects\OOP_lab1_2\OOP_lab1_2\obj\Debug\net8.0\OOP_lab1_2.sourcelink.json

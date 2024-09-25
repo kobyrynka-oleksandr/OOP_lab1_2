@@ -80,6 +80,21 @@ namespace OOP_lab1_2
         {
             return radius.CompareTo(secondRadius.radius);
         }
+        public int Compare(TCircle secondCircle)
+        {
+            if (radius < secondCircle.GetRadius)
+            {
+                return -1;
+            }
+            else if (radius == secondCircle.GetRadius)
+            {
+                return 0;
+            }
+            else
+            {
+                return 1;
+            }
+        }
     }
     public class TCylinder : TCircle
     {
